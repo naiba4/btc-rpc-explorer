@@ -552,7 +552,77 @@ module.exports = {
 			speaker: "Satoshi",
 			url: "https://bitcointalk.org/index.php?topic=13.msg46#msg46",
 			date: "2009-12-10"
-		}
+		},
+		{
+			// 78
+			text: "Tick tock, next block.",
+			speaker: "Brady Swenson",
+			url: "https://twitter.com/CitizenBitcoin/status/1624236733788299264",
+			date: "2019-10-18"
+		},
+		{
+			// 79
+			text: "Bitcoin is a peaceful protest against the financial system that has failed us.",
+			speaker: "Jimmy Song",
+			url: "https://twitter.com/satson73/status/1643611030030024704?s=20",
+			date: "2023-04-05"
+		},
+		{
+			// 80
+			text: "You may deride Bitcoin, no matter. Bitcoin will be there for you when you need it.",
+			speaker: "Nic Carter",
+			url: "https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e",
+			date: "2019-09-07"
+		},
+		{
+			// 81
+			text: "Bitcoin is absolutely profane, so much so that it hardly bears contemplation. It challenges the State’s most treasured privilege: its ability to finance itself through inflation and seignorage.",
+			speaker: "Nic Carter",
+			url: "https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e",
+			date: "2019-09-07"
+		},
+		{
+			// 82
+			text: "If it's your keys, it's your bitcoin. If it's not your keys, it's not your bitcoin! That's a lesson that we all learned during Gox, so...let's try not to have to be taught that lesson again.",
+			speaker: "Andreas Antonopolous",
+			url: "https://youtu.be/uLpSM3HWU6U?t=4408",
+			date: "2016-04-14"
+		},
+		{
+			// 83
+			text: "I don't think we can affort two proof-of-work systems on this planet, but I think we might only need one.",
+			speaker: "Andreas Antonopolous",
+			url: "https://youtu.be/2T0OUIW89II?t=297",
+			date: "2017-12-12"
+		},
+		{
+			// 84
+			text: "We need one planetary scale proof-of-work system to offer us true, energy-dependent immutability. But maybe we can only afford one. Turns out, that might be Bitcoin's killer app.",
+			speaker: "Andreas Antonopolous",
+			url: "https://youtu.be/2T0OUIW89II?t=312",
+			date: "2017-12-12"
+		},
+		{
+			// 85
+			text: "Bitcoin is the most valuable, most secure, and most credibly neutral internet-native asset in the world.",
+			speaker: "Andrew M. Bailey and Craig Warmke",
+			url: "https://www.resistance.money/bitcoin_is_king.pdf",
+			date: "2022-11-17"
+		},
+		{
+			// 86
+			text: "Bitcoin is King",
+			speaker: "Andrew M. Bailey and Craig Warmke",
+			url: "https://www.resistance.money/bitcoin_is_king.pdf",
+			date: "2022-11-17"
+		},
+		{
+			// 87
+			text: "Amidst a sea of rent-seeking \"cryptocurrencies\" created by opportunistic venture capitalists, bitcoin stands alone as neutral, immutable money with rules, but no single ruler.",
+			speaker: "Nik Bhatia and Joe Consorti",
+			url: "https://thebitcoinlayer.substack.com/p/bitcoin-is-swallowing-the-world",
+			date: "2023-04-27"
+		},
 		/*{
 			text: "Bitcoin is a technological tour de force.",
 			speaker: "Bill Gates",

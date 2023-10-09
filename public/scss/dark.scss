@@ -15,7 +15,7 @@ $dark: darken($body-bg, 8%);
 $blue: #0d6efd;
 $light: darken(#f8f9fa, 5%);
 $link-color: $blue;
-$card-highlight-color: #406fb4;
+$card-highlight-color: #3d76cc;
 
 $table-striped-bg-factor: 0.15;
 
@@ -53,9 +53,6 @@ $tooltip-bg: lighten($body-bg, 15%);
 $tooltip-color: $body-color;
 
 
-$nav-tabs-link-active-color:		darken($body-color, 5%);
-//$nav-tabs-link-active-bg:			$body-bg !default;
-$nav-tabs-link-active-border-color:	#ced4da #ced4da $body-bg !important;
 
 
 $btn-close-color: #fff;
@@ -95,6 +92,15 @@ $toast-border-color:                rgba(255, 255, 255, .1);
 $toast-header-color:                $body-color;
 $toast-header-background-color:     lighten($body-bg, 7%);
 $toast-header-border-color:         rgba(0, 0, 0, .05) !default;
+
+
+$progress-bg: darken($body-bg, 8%);
+
+
+
+$nav-tabs-border-color: $body-color;
+
+
 
 
 
@@ -172,7 +178,7 @@ $header-footer-bg: #112138;
 
 
 .bg-tx-separator {
-	background-color: #131a24;
+	background-color: darken($body-bg, 12%);
 }
 
 .border-card-highlight-badge {
