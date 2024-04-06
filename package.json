@@ -77,7 +77,7 @@
 		"event-loop-stats": "^1.4.1"
 	},
 	"devDependencies": {
-		"eslint": "^8.39.0",
+		"eslint": "^9.0.0",
 		"npm-run-all": "^4.1.5",
 		"sass": "^1.62.1"
 	}
