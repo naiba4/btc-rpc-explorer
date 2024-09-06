@@ -40,7 +40,7 @@
 		"bitcoinjs-lib": "^6.1.0",
 		"body-parser": "^1.20.2",
 		"bootstrap": "^5.2.3",
-		"bs58check": "^3.0.1",
+		"bs58check": "^4.0.0",
 		"chart.js": "^4.3.0",
 		"compression": "^1.7.4",
 		"cookie-parser": "^1.4.6",
@@ -48,14 +48,14 @@
 		"csurf": "^1.11.0",
 		"debug": "^4.3.4",
 		"decimal.js": "^10.4.3",
-		"dotenv": "^13.0.1",
+		"dotenv": "^16.4.5",
 		"electrum-client": "github:janoside/electrum-client",
 		"express": "^4.18.2",
 		"express-async-handler": "^1.2.0",
 		"express-session": "^1.17.3",
 		"jayson": "^4.1.0",
-		"lru-cache": "^9.1.1",
-		"markdown-it": "^13.0.1",
+		"lru-cache": "^11.0.0",
+		"markdown-it": "^14.1.0",
 		"md5": "^2.3.0",
 		"memorystore": "^1.6.7",
 		"meow": "^9.0.0",
@@ -71,7 +71,7 @@
 		"serve-favicon": "^2.5.0",
 		"simple-git": "^3.18.0",
 		"tiny-secp256k1": "^2.2.1",
-		"zeromq": "^5.3.1"
+		"zeromq": "^6.0.0"
 	},
 	"optionalDependencies": {
 		"event-loop-stats": "^1.4.1"
